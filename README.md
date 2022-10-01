@@ -44,3 +44,7 @@ We use this bar chart to further understand peak rental hours.
 
 Several of our charts comparing gender reveal that men use citi bikes more often than women. The peak hours of usage are between 6-8 pm. Surprisingly the bikes are more frequently rented during the weekday compared to the weekend and subscribers use the bikes more than single-day users. This can conclude that these bikes are more frequently used as transportation to and from work. Peak hours are from 8-9 am and again at 6-8 pm. A qualitative study should be conducted to further prove this hypothesis. 
 
+
+For the Tableau story click the link below:
+
+[link to dashboard](https://public.tableau.com/app/profile/meron.mesfin)
